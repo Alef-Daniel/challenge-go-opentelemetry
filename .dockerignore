@@ -1,0 +1,6 @@
+.git
+.idea
+.env
+README.md
+docker-compose.yaml
+otel-collector-config.yaml
